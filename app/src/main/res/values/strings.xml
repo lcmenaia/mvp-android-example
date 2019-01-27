@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP Example</string>
+
+    <string name="text_register">No account yet? Create one</string>
+    <string name="btn_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+</resources>
