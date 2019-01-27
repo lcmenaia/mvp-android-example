@@ -20,7 +20,7 @@ public class Presenter<V> {
 
     public V getView() {
 
-        //in case the view was destroyed but an async function is still call it
+        //in case the view was destroyed but an async function will still call it
         if(this.view==null){
             throw new NullViewException();
         }
