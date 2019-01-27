@@ -1,3 +1,3 @@
 # MVP Android Example
 
-A simple example of how you can start a MVP based Android App.
+Android short example on how to start a MVP based application.
