@@ -1,9 +1,9 @@
-package com.example.mvp_example.views.Login;
+package com.example.mvp_example.view.Login;
 
 import android.widget.Toast;
 
 import com.example.mvp_example.custom.Presenter;
-import com.example.mvp_example.models.Login;
+import com.example.mvp_example.model.Login;
 
 /**
  * Visibility may be default because its on the same package

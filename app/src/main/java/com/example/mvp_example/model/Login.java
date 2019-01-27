@@ -1,4 +1,4 @@
-package com.example.mvp_example.models;
+package com.example.mvp_example.model;
 
 public class Login {
 

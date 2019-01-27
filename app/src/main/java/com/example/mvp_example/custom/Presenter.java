@@ -1,6 +1,6 @@
 package com.example.mvp_example.custom;
 
-import com.example.mvp_example.exceptions.NullViewException;
+import com.example.mvp_example.exception.NullViewException;
 
 public class Presenter<V> {
 

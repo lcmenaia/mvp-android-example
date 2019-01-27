@@ -1,4 +1,4 @@
-package com.example.mvp_example.views.Login;
+package com.example.mvp_example.view.Login;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

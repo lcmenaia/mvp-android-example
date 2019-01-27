@@ -1,4 +1,4 @@
-package com.example.mvp_example.exceptions;
+package com.example.mvp_example.exception;
 
 public class NullViewException extends RuntimeException {
 
